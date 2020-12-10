@@ -1,0 +1,148 @@
+body {
+  margin: 10px;
+  padding: 0;
+  overflow: hidden;
+}
+
+.menu {
+  width: 45px;
+  height: 24px;
+  border-radius: 50px;
+  padding: 10px;
+  position: relative;
+  top: 100px;
+  left: 0;
+}
+
+.menu div:nth-child(1) {
+  height: 4px;
+  width: 24px;
+  background: black;
+  position: absolute;
+  top: 23%;
+}
+
+.menu div:nth-child(2) {
+  height: 4px;
+  width: 16px;
+  background: black;
+  position: absolute;
+  top: 43%;
+}
+
+.menu div:nth-child(3) {
+  height: 4px;
+  width: 24px;
+  background: black;
+  position: absolute;
+  top: 63%;
+}
+
+.menu div:nth-child(1),
+.menu div:nth-child(2),
+.menu div:nth-child(3) {
+  left: 30%;
+}
+
+.content {
+  background: #292E38;
+  border-radius: 50px;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  position: absolute;
+  top: 216%;
+  left: 4.5%;
+}
+
+header {
+  position: relative;
+}
+
+embed {
+  padding: 10px;
+  width: 45px;
+  filter: invert(47%) sepia(17%) saturate(2370%) hue-rotate(217deg) brightness(85%) contrast(95%);
+}
+
+body {
+  background: #242831;
+}
+
+.menu div:nth-child(1) {
+  background: white;
+}
+
+.menu div:nth-child(2) {
+  background: white;
+}
+
+.menu div:nth-child(3) {
+  background: white;
+}
+
+.menu {
+  background: #1E2129;
+}
+
+embed {
+  filter: invert(47%) sepia(17%) saturate(2370%) hue-rotate(217deg) brightness(85%) contrast(95%);
+}
+
+.menu div:nth-child(1) {
+  background: white;
+}
+
+.menu div:nth-child(2) {
+  background: white;
+}
+
+.menu div:nth-child(3) {
+  background: white;
+}
+
+.menu {
+  background: #1E2129;
+}
+
+body {
+  background: #242831;
+}
+
+
+/* Inline #0 | http://localhost:3000/ */
+
+.menu {
+  z-index: 1;
+}
+
+.menu {
+  /* height: 24px; */
+  /* position: relative; */
+  /* top: 100px; */
+  height: 28px;
+  position: absolute;
+  top: 0px;
+}
+
+.menu div {
+  border-radius: 30px;
+}
+
+.content {
+  padding-left: 25px;
+}
+
+.content {
+  background: #292E38;
+  border-radius: 50px;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  position: absolute;
+  top: 216%;
+  left: 40.25px;
+  height: 47px;
+  white-space: nowrap;
+  display: flex;
+}
+
+
